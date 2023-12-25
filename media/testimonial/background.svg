@@ -1,0 +1,25 @@
+<svg id="background" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="500" viewBox="0 0 1920 500">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #5f51fb;
+        filter: url(#filter);
+      }
+
+      .cls-2 {
+        fill: #fff;
+        opacity: 0.03;
+      }
+    </style>
+    <filter id="filter" x="0" y="0" width="1920" height="500" filterUnits="userSpaceOnUse">
+      <feImage preserveAspectRatio="none" x="0" y="0" width="1920" height="500" result="image" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMTkyMCIgaGVpZ2h0PSI1MDAiIHZpZXdCb3g9IjAgMCAxOTIwIDUwMCI+CiAgPGRlZnM+CiAgICA8c3R5bGU+CiAgICAgIC5jbHMtMSB7CiAgICAgICAgZmlsbDogdXJsKCNsaW5lYXItZ3JhZGllbnQpOwogICAgICB9CiAgICA8L3N0eWxlPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJsaW5lYXItZ3JhZGllbnQiIHgxPSIxMTA0LjMzOCIgeDI9IjgxNS42NjIiIHkyPSI1MDAiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSItMC4yNSIgc3RvcC1jb2xvcj0iIzUyMzNiZCIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEuMjUiIHN0b3AtY29sb3I9IiNjZDUwZTIiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IGNsYXNzPSJjbHMtMSIgd2lkdGg9IjE5MjAiIGhlaWdodD0iNTAwIi8+Cjwvc3ZnPgo="/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <rect id="shape_bg" data-name="shape / bg" class="cls-1" width="1920" height="500"/>
+  <path id="shape_01" class="cls-2" d="M-55,0H645a0,0,0,0,1,0,0V290A100,100,0,0,1,545,390H-55a0,0,0,0,1,0,0V0A0,0,0,0,1-55,0Z"/>
+  <path id="shape_02" class="cls-2" d="M165,0H745a0,0,0,0,1,0,0V270a0,0,0,0,1,0,0H265A100,100,0,0,1,165,170V0A0,0,0,0,1,165,0Z"/>
+  <path id="shape_03" class="cls-2" d="M1440,242.31h480a0,0,0,0,1,0,0V500a0,0,0,0,1,0,0H1340a0,0,0,0,1,0,0V342.31A100,100,0,0,1,1440,242.31Z"/>
+  <path id="shape_04" class="cls-2" d="M1220,150h600a0,0,0,0,1,0,0V500a0,0,0,0,1,0,0H1120a0,0,0,0,1,0,0V250A100,100,0,0,1,1220,150Z"/>
+</svg>

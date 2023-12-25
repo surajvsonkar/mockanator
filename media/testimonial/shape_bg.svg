@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="580.03" viewBox="0 0 840 580.03">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #5b2cad;
+        fill-rule: evenodd;
+        opacity: 0.05;
+      }
+    </style>
+  </defs>
+  <path id="shape_bg" data-name="shape / bg" class="cls-1" d="M1505,7162c234.72,0,425,190.4,425,425.27s-208.38-111.36-460.06,41.47c-200.67,121.84-389.94,193.4-389.94-41.47S1270.28,7162,1505,7162Z" transform="translate(-1080 -7162)"/>
+</svg>
