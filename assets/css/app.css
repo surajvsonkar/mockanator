@@ -18953,25 +18953,25 @@ input[type=radio] {
 
 /* Scrollbar CSS */
 
-.content-wrapper::-webkit-scrollbar {
+::-webkit-scrollbar {
     width: 5px; 
 }
 
-.content-wrapper::-webkit-scrollbar-thumb {
+::-webkit-scrollbar-thumb {
     background-color: #888;
     border-radius: 3px;
 }
 
-.content-wrapper::-webkit-scrollbar-track {
+::-webkit-scrollbar-track {
     background-color: #f1f1f1;
 }
 
 
 
-.content-wrapper::-webkit-scrollbar {
+::-webkit-scrollbar {
     width: 5px;
 }
 
-.content-wrapper:not(:hover)::-webkit-scrollbar-thumb {
+:not(:hover)::-webkit-scrollbar-thumb {
     display: none; 
 }
