@@ -3973,7 +3973,7 @@ Creation date: 24/08/2018 05:51
 	position: relative;
 }
 .mobile-header .main-nav-container li.has-submenu > a:after {
-	content: '';
+	/* content: ''; */
 	font-family: 'themify';
 	position: absolute;
 	top: 50%;
